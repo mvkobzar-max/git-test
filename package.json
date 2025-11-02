@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bondarenko Ilya",
-< feature/05-express-server
+  "author": "Kobzar Maksym",
+<feature/05-express-server
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.1"
