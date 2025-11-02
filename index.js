@@ -41,7 +41,7 @@ const server = http.createServer((req, res) => {
        res.end(); //end the response
     }else{
        res.write('<h1>Hello World!<h1>'); //write a response
-       res.write('<h2>My name Ilya<h2>'); //write a response
+       res.write('<h2>My name Maksym<h2>'); //write a response
        res.end(); //end the response
     }
 });
@@ -50,3 +50,4 @@ server.listen(port, () => {
  console.log(`server start at http://localhost:${port}/`);
 });
 > main
+
