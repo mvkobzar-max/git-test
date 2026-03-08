@@ -10,7 +10,7 @@
     "migration:push": "drizzle-kit push",
     "migration:up": "drizzle-kit up"
   },
-  "author": "dmytro saliy",
+  "author": "kobzar maksym",
   "license": "ISC",
   "dependencies": {
     "drizzle-kit": "^0.30.5",
@@ -18,4 +18,5 @@
     "express": "^4.21.1",
     "pg": "^8.14.1"
   }
+
 }
